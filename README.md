@@ -3,7 +3,6 @@
 This repository contains code for classifying the MNIST dataset using deep learning techniques. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9) and is a popular benchmark dataset in the field of machine learning. The code implements a convolutional neural network (CNN) using PyTorch to achieve high accuracy in digit recognition. It includes data preprocessing, model training, evaluation, and visualization of results.
 
 # Steps 
-Sure, here are the steps you can include in the README for your GitHub repository:
 
 1. **Importing Libraries:** Import necessary libraries including PyTorch, TorchVision, and Matplotlib.
 
